@@ -18,8 +18,8 @@ Other than the PCB and it's components, to use the amplifier you'll also need:
   -Two heatsinks, to be placed on both sides right where the power transistors face towards the PCB outline
   -A 220V (or whatever is standard in your country) to +28V 0V -28V (dual output) toroidal transformer
   -A grounded metal base plane, so that all the mounting screws provide secure grounding to the components
-  -An MH-M18 Bluetooth module (such as 
-  -A 220V to 5VDC power supply
+  -An MH-M18 Bluetooth module (such as https://amzn.eu/d/1KDv10z)
+  -A 220V to 5VDC power supply (such as https://amzn.eu/d/5lVEZ71)
   -An enclosure, if you wish.
 
 In this repository you'll find all the files needed for production or further developing, and also some screenshots.
